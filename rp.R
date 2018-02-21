@@ -5,8 +5,8 @@ f<-function(a,b){
 	print(b)
 }
 f(4,5)
-aaaaaaaaaaaaaaaaa
-bbbbbbbbbbbb
+
+f(1,2)
 
 
 
